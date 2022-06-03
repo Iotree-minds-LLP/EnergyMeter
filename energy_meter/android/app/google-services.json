@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690149597136",
+    "firebase_url": "https://energy-meter-1ce74-default-rtdb.firebaseio.com",
+    "project_id": "energy-meter-1ce74",
+    "storage_bucket": "energy-meter-1ce74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690149597136:android:8a4e210463c4b43a6c63d5",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690149597136-kfpjjd4pi7erlk902a41mf7ckr3o2nga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpkkkIFBTbIt3-lF3tyu0lU4RXApV-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690149597136-kfpjjd4pi7erlk902a41mf7ckr3o2nga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
